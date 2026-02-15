@@ -4,7 +4,11 @@ A comprehensive collection of technical blueprints, architectural patterns, and 
 
 ## 📋 Overview
 
-This repository provides battle-tested technical blueprints for implementing AI solutions across various use cases. Each blueprint includes:
+This repository provides battle-tested technical blueprints for implementing AI solutions across various use cases. 
+
+**New here?** Check out the [Quick Start Guide](QUICKSTART.md) to get started in 5 minutes!
+
+Each blueprint includes:
 
 - **Architecture diagrams** - Visual representation of system components
 - **Technical specifications** - Detailed implementation requirements
